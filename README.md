@@ -23,7 +23,7 @@ Requirements:
 
 
 Install Program:
-Link https://drive.google.com/file/d/1cmk-wYWvalcSYZOXvF6Xai_KoKAupgkZ/view?usp=sharing
+Link https://www.mediafire.com/file/uzmcdnri51dgkcz/trAvis+Sorter.exe/file
 
 Telegram : https://t.me/trAvis_Anonymous
 
